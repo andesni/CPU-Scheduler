@@ -20,4 +20,11 @@ The execution timeline will also be visualized in the chart area.
 
 Users can add, remove, or modify processes and repeat the computation with different scheduling algorithms or parameters.
 
-The visual representation of the execution timeline (chart area) provides users with an intuitive understanding of how processes are scheduled and executed over time. Users can explore the impact of different scheduling algorithms on waiting times and turnaround times for a given set of processes.
+The visual representation of the execution timeline (chart area) provides users with an intuitive understanding of how processes are scheduled and executed over time. Users can explore the impact of different scheduling algorithms on waiting times and turnaround times for a given set of processes
+
+
+
+
+https://github.com/andesni/CPU-Scheduler/assets/93085549/b0ec1835-12f2-48b9-96af-8952f15948bc
+
+.
