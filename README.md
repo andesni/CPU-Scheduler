@@ -1,5 +1,10 @@
-# CPU-Scheduler
-Java CPU Scheduler
+# INSTALLATION 
+
+INSTALLATION
+To start with this program, you'll need an IDE compatible with at least Java 8 like VSCode.
+A collection of extensions suggested by Microsoft: Language Support for Java by Red Hat, Debugger for Java, Test Runner for Java.
+
+# USAGE
 
 The CPU Scheduling Simulator was implemented with Java Language and Java Swing as a GUI.
 Using Java Swing came with a few difficulties, but it seemed to be the most straightforward approach to implementing the Simulator.
