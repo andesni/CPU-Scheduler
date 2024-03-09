@@ -19,7 +19,7 @@ Available Algorithms in this Scheduling Simulator include:
 *  Priority Scheduling Non-Preemptive (PSN)
 *  Priority Scheduling Preemptive (PSP)
 If the selected algorithm is Round Robin, a dialogue will prompt the user to input a time quantum.
-Once the selected scheduling algorithm is executed based on the provided process details, the simulator will update the table with calculated waiting times (WT) and turnaround times (TAT) for each process.
+Once the selected scheduling algorithm is executed based on the provided process details, the simulator will update the table with calculated waiting times (WT) and turnaround times (TAT) for each process.\
 The execution timeline will also be visualized in the chart area.
 
 Users can add, remove, or modify processes and repeat the computation with different scheduling algorithms or parameters.
