@@ -1,4 +1,5 @@
-# Installation
+# Prerequisite
+* OpenJDK8+
 
 To start with this program, you'll need an IDE compatible with at least Java 8 like VSCode.
 A collection of extensions suggested by Microsoft: Language Support for Java by Red Hat, Debugger for Java, Test Runner for Java.
